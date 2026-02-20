@@ -27,7 +27,7 @@ Files in this repository act as defaults for all repositories in the APIVerve or
 
 ## Links
 
-- **Website:** [apiverve.com](https://apiverve.com)
-- **Documentation:** [docs.apiverve.com](https://docs.apiverve.com)
-- **Dashboard:** [dashboard.apiverve.com](https://dashboard.apiverve.com)
+- **Website:** [apiverve.com](https://apiverve.com?utm_source=github&utm_medium=org-profile&utm_campaign=dotgithub-readme)
+- **Documentation:** [docs.apiverve.com](https://docs.apiverve.com?utm_source=github&utm_medium=org-profile&utm_campaign=dotgithub-readme)
+- **Dashboard:** [dashboard.apiverve.com](https://dashboard.apiverve.com?utm_source=github&utm_medium=org-profile&utm_campaign=dotgithub-readme)
 - **API Catalog:** [github.com/apiverve/apis](https://github.com/apiverve/apis)
