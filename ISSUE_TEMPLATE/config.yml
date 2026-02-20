@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: 📚 Documentation
-    url: https://docs.apiverve.com
+    url: https://docs.apiverve.com?utm_source=github&utm_medium=org-profile&utm_campaign=issue-template
     about: Check the documentation for API usage help
   - name: 💬 Discussions
     url: https://github.com/apiverve/apis/discussions
