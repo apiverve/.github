@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://apiverve.com">
-    <img src="https://apiverve.com/images/logo-dark.svg" alt="APIVerve" width="300" />
+    <img src="https://apiverve.com/images/favicon.png" alt="APIVerve" width="80" />
   </a>
 </p>
+
+<h1 align="center">APIVerve</h1>
 
 <h3 align="center">Production-Ready APIs for Developers</h3>
 
@@ -27,7 +29,6 @@ We provide **356+ production-ready REST APIs** that developers can integrate in 
 
 **Why developers choose us:**
 - Simple API key authentication
-- Generous free tier (100 requests/day)
 - Official SDKs for Node.js, Python, .NET, and more
 - 99.9% uptime SLA
 - Fast global response times
@@ -65,14 +66,6 @@ Every API has official client libraries:
 curl "https://api.apiverve.com/v1/worldtime?city=london" \
   -H "x-api-key: YOUR_API_KEY"
 ```
-
----
-
-## API Categories
-
-📝 **Text Processing** (46) · 💰 **Finance** (40) · 🔄 **Data Conversion** (32) · ✨ **Data Generation** (32) · 📦 **Entertainment** (24) · 📦 **Games** (21) · 🌐 **Domain Data** (18) · 🔍 **Data Lookup** (17) · 📦 **Networking** (14) · 📦 **Geography** (13) · 📦 **Reference Data** (11) · 📦 **Data Validation** (9)
-
-[Browse all 356 APIs →](https://apiverve.com/marketplace)
 
 ---
 
