@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://apiverve.com">
+  <a href="https://apiverve.com?utm_source=github&utm_medium=org-profile&utm_campaign=readme">
     <img src="https://apiverve.com/images/favicon.png" alt="APIVerve" width="80" />
   </a>
 </p>
@@ -9,16 +9,16 @@
 <h3 align="center">Production-Ready APIs for Developers</h3>
 
 <p align="center">
-  <a href="https://apiverve.com/marketplace"><img src="https://img.shields.io/badge/APIs-356+-blue.svg" alt="APIs" /></a>
+  <a href="https://apiverve.com/marketplace?utm_source=github&utm_medium=org-profile&utm_campaign=readme"><img src="https://img.shields.io/badge/APIs-356+-blue.svg" alt="APIs" /></a>
   <a href="https://www.npmjs.com/~apivervehq"><img src="https://img.shields.io/badge/npm-@apiverve-CB3837.svg?logo=npm" alt="npm" /></a>
   <a href="https://pypi.org/user/apiverve/"><img src="https://img.shields.io/badge/PyPI-apiverve-3776AB.svg?logo=python" alt="PyPI" /></a>
   <a href="https://www.nuget.org/profiles/APIVerve"><img src="https://img.shields.io/badge/NuGet-APIVerve-004880.svg?logo=nuget" alt="NuGet" /></a>
 </p>
 
 <p align="center">
-  <a href="https://dashboard.apiverve.com"><strong>Get API Key</strong></a> · 
-  <a href="https://docs.apiverve.com"><strong>Documentation</strong></a> · 
-  <a href="https://apiverve.com/marketplace"><strong>Browse APIs</strong></a>
+  <a href="https://dashboard.apiverve.com?utm_source=github&utm_medium=org-profile&utm_campaign=readme"><strong>Get API Key</strong></a> · 
+  <a href="https://docs.apiverve.com?utm_source=github&utm_medium=org-profile&utm_campaign=readme"><strong>Documentation</strong></a> · 
+  <a href="https://apiverve.com/marketplace?utm_source=github&utm_medium=org-profile&utm_campaign=readme"><strong>Browse APIs</strong></a>
 </p>
 
 ---
@@ -55,28 +55,6 @@ Every API has official client libraries:
 | **Python** | `pip install apiverve-<api>` | [PyPI](https://pypi.org/user/apiverve/) |
 | **.NET** | `dotnet add package APIVerve.API.<Api>` | [NuGet](https://www.nuget.org/profiles/APIVerve) |
 | **Go** | `go get github.com/apiverve/<api>-go` | [GitHub](https://github.com/apiverve) |
-
----
-
-## Quick Start
-
-```bash
-# Get your free API key at https://dashboard.apiverve.com
-
-curl "https://api.apiverve.com/v1/worldtime?city=london" \
-  -H "x-api-key: YOUR_API_KEY"
-```
-
----
-
-## Connect With Us
-
-- Website: [apiverve.com](https://apiverve.com)
-- Documentation: [docs.apiverve.com](https://docs.apiverve.com)
-- Email: [hello@apiverve.com](mailto:hello@apiverve.com)
-- Twitter: [@apiaboratory](https://twitter.com/apiaboratory)
-
----
 
 <p align="center">
   <sub>Built with ❤️ for developers</sub>
