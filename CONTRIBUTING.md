@@ -64,7 +64,7 @@ Use clear, descriptive commit messages:
 
 ## Questions?
 
-- **Documentation:** [docs.apiverve.com](https://docs.apiverve.com)
+- **Documentation:** [docs.apiverve.com](https://docs.apiverve.com?utm_source=github&utm_medium=org-profile&utm_campaign=contributing)
 - **Discussions:** [GitHub Discussions](https://github.com/apiverve/apis/discussions)
 - **Email:** [hello@apiverve.com](mailto:hello@apiverve.com)
 
