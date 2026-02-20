@@ -5,9 +5,9 @@ Need help with APIVerve? Here's how to get support.
 ## 📚 Documentation
 
 Start with our documentation:
-- **[API Documentation](https://docs.apiverve.com)** - Full API reference
-- **[Getting Started](https://docs.apiverve.com/getting-started)** - Quick start guide
-- **[FAQ](https://docs.apiverve.com/faq)** - Frequently asked questions
+- **[API Documentation](https://docs.apiverve.com?utm_source=github&utm_medium=org-profile&utm_campaign=support)** - Full API reference
+- **[Getting Started](https://docs.apiverve.com/getting-started?utm_source=github&utm_medium=org-profile&utm_campaign=support)** - Quick start guide
+- **[FAQ](https://docs.apiverve.com/faq?utm_source=github&utm_medium=org-profile&utm_campaign=support)** - Frequently asked questions
 
 ## 💬 Community
 
@@ -35,7 +35,7 @@ Include:
 ## 🔑 Account & Billing
 
 For account or billing questions:
-1. Log in to your [Dashboard](https://dashboard.apiverve.com)
+1. Log in to your [Dashboard](https://dashboard.apiverve.com?utm_source=github&utm_medium=org-profile&utm_campaign=support)
 2. Use the support chat or email [billing@apiverve.com](mailto:billing@apiverve.com)
 
 ## ⏱️ Response Times
